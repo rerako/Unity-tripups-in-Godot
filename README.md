@@ -22,9 +22,7 @@ Issue 1: why can't I see variables in Godot Inspector like in Unity Inspector di
 	public float variable;
 <format 2>
 
-	[Export]	public float variable;
-
- 			^ you would hold alt and mouse click here and add the [export]  	
+	[Export]	public float variableB;
  
 	Tip to quickly edit script to export multiple ones hold down "alt" and "mouse select" and drag the lines and position to the left of the multiple variables you want to add the [Export] clause to. 
 
