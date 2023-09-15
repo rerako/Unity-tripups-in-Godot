@@ -7,7 +7,7 @@ Just some common road blocks I find in Godot that you can address to make your e
 
 *
 
-Issue 1: why can't I see variables in Godot Inspector like in Unity Inspector displays public Variables (Applicable to only 4.x)
+Issue 1: why can't I see variables in Godot Inspector like in Unity Inspector displays public Variables (may need to check what version of Godot you have if it support its)
    
 	Purpose: To add the drag and drop references directly from scene to the specific script instead of searching for it through scripting.
 
