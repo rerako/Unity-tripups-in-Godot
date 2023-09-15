@@ -34,7 +34,7 @@ Purpose: everyone likes their own editor type and Godot is compatible with a few
 
 Solution:
 
-To set it to external editor too go to the Editor Tab -> Editor Settings -> General -> Dotnet -> Editor
+To set it to external editor too go to the Editor Tab -> Editor Settings (opens mini wondow)-> General -> Dotnet -> Editor
 
  1st option toggles which external editor to choose 
 
@@ -86,4 +86,4 @@ For the defaults control inputs you would use Input class.
 
 Tip4: 
 
-How to check input mappings and built in actions: Project(top left tab) -> Project Settings -> Input Map -> built in actions (top left toggle of mini window )
+How to check input mappings and built in actions: Project Tab -> Project Settings (opens mini wondow)-> Input Map -> built in actions (top right toggle in mini window )
