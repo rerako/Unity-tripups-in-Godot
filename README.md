@@ -10,6 +10,9 @@ Issue 1: why can't I see variables in Godot Inspector like in Unity Inspector di
 	Purpose: To add the drag and drop references directly from scene to the specific script instead of searching for it through scripting.
 
 	Solution:
+ 
+ ![image](https://github.com/rerako/Unity-tripups-in-Godot/assets/10995602/d2999b7e-3d44-425d-ac8c-809af083c6a1)
+
 
  add [Export] to variable;
  
@@ -32,17 +35,30 @@ Issue 2: I've installed  Editor IDE compatible with Godot and requirements, why 
 
 	Solution:
 
+ ![image](https://github.com/rerako/Unity-tripups-in-Godot/assets/10995602/a003edf2-5a7e-483e-b117-a1d947b46a9a)
+
+
 	To set it to external editor too go to the Editor Tab -> Editor Settings (opens mini wondow)-> General -> Dotnet -> Editor
 
 	 1st option toggles which external editor to choose 
 
-Issue 3: I've setup external IDE but it keeps requesting I refresh the script
+Issue 3: I've setup external IDE but it keeps requesting I refresh or resave the script
+![image](https://github.com/rerako/Unity-tripups-in-Godot/assets/10995602/a5ce0ec7-3097-467c-96f3-75b49dbfd35b)
+
    
 	Purpose: save time and maintain only one version of script
 
 	Solution:
 
 	Close all scripts in Godot interal editor.
+
+Issue 4: How to check variables and scene when running a build in editor?
+	Purpose: to check variables mid run
+	Solution:
+ 	When running Godot, the scene window adds two tabs to select(Remote for live data and Local for scene nonlive data):
+  
+  	![image](https://github.com/rerako/Unity-tripups-in-Godot/assets/10995602/9a482b4c-fd2a-4581-bc23-4c386fa1c580)
+
 
 
 For C# what I noticed:
@@ -83,6 +99,8 @@ TIPS:
 
 		For the defaults control inputs you would use Input class.
 
-Tip4: 
+	Tip4: 
 
 	How to check input mappings and built in actions: Project Tab -> Project Settings (opens mini wondow)-> Input Map -> built in actions (top right toggle in mini window )
+ ![image](https://github.com/rerako/Unity-tripups-in-Godot/assets/10995602/1dae3bfe-6ff5-4951-ab23-e080d4bba1cb)
+
