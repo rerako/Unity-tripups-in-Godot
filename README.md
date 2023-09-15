@@ -2,6 +2,7 @@
 
 
 DATE of document: 09/14/2023
+
 Just some common road blocks I find in Godot that you can address to make your experience better as a fellow person who migrated to Unity
 
 
@@ -24,8 +25,8 @@ Tip	to quickly edit script to export multiple ones hold down "alt" and mouse sel
 2. Issue: I've installed  Editor IDE compatible with Godot and requirements, why is it going to default godot script editor?
 Purpose: everyone likes their own editor type and Godot is compatible with a few
 Solution:
-To set it to external editor too go to the editor tab top right,  <Top left Tab> Editor  -> project settings-> <section> Dotnet -> Editor
- 1st option which allows you to choose which external editor 
+To set it to external editor too go to the Editor Tab -> Editor Settings -> General -> Dotnet -> Editor
+ 1st option toggles which external editor to choose 
 
 3. Issue: I've setup external IDE but it keeps requesting I refresh the script
 Purpose: save time and maintain only one version of script
