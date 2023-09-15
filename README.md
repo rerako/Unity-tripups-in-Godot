@@ -57,7 +57,7 @@ Issue 4: How to check variables and scene when running a build in editor?
 	Solution:
  	When running Godot, the scene window adds two tabs to select(Remote for live data and Local for scene nonlive data):
   
-  	![image](https://github.com/rerako/Unity-tripups-in-Godot/assets/10995602/9a482b4c-fd2a-4581-bc23-4c386fa1c580)
+  ![image](https://github.com/rerako/Unity-tripups-in-Godot/assets/10995602/9a482b4c-fd2a-4581-bc23-4c386fa1c580)
 
 
 
