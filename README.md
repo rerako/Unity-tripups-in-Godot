@@ -46,10 +46,15 @@ Note: Transform is like a Superclass in Godot that has other methods
 
 
 TIPS:
-Tip 1: C# in Godot follows PascalCase format 
+Tip 1: 
+C# in Godot follows PascalCase format 
 GDScript in Godot follows snake_case  format
-Tip 2: To translate certain method names from Godot documentation from GDScript(default language) to C#
+
+Tip 2:
+To translate certain method names from Godot documentation from GDScript(default language) to C#
 You would translate it like so:
 has_focus() -> HasFocus()
-Tip3: Input and InputEvent are seperate classes for different input methods, easy to get mixed up. For the defaults control inputs you would use Input class
-Tip4: How to check input mappings and built in actions: Project(top left tab) -> Project Settings -> Input Map -> built in actions (top left toggle of mini window )
+Tip3: Input and InputEvent are seperate classes for different input methods, easy to get mixed up. 
+For the defaults control inputs you would use Input class.
+Tip4: 
+How to check input mappings and built in actions: Project(top left tab) -> Project Settings -> Input Map -> built in actions (top left toggle of mini window )
