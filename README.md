@@ -4,6 +4,7 @@
 DATE of document: 09/14/2023 (pardon my formatting)
 
 Just some common road blocks I find in Godot that you can address to make your experience better as a fellow person who migrated to Unity
+Most of my struggles come from utilizing c# so it may not apply to your experience.
 
 *
 
